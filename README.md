@@ -1,6 +1,6 @@
 # FRT-project 
 frt final project 
-link: https://gentle-dune-0f8f4f110.1.azurestaticapps.net
+link: https://yemanth-sai-kumar-1.github.io/FRT-project/
 # protect wild life 
 # Home section
 ![Screenshot (1)](https://user-images.githubusercontent.com/108165320/175810441-6b05876b-6d57-4c2a-a8de-5c8b827aaf50.png)
